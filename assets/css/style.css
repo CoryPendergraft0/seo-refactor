@@ -87,24 +87,24 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Condensed all the same stlyes into the benefits2 tag to clean up*/
 .benefits2 {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* since all of the h3s pull from the parents, had to condense the next group to benefits2 h3*/
 .benefits2 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* repeated steps for previous condensing*/
 .benefits2 img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.content2 {
+.article-files {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -113,11 +113,11 @@ p {
     color: #ffffff;
 }
 
-.content2 img {
+.article-files img {
     max-height: 200px;
 }
 
-.content2 h2 {
+.article-files h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
