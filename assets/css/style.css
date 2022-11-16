@@ -103,7 +103,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Renamed and condensed next sections to match description*/
 .article-files {
     margin-bottom: 20px;
     padding: 50px;
@@ -112,11 +112,11 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* renamed to match parent since this is still pulling*/
 .article-files img {
     max-height: 200px;
 }
-
+/* REnamed to match parent since pulls from same h2*/
 .article-files h2 {
     margin-bottom: 20px;
     font-size: 36px;
